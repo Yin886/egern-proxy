@@ -5,5 +5,5 @@ Egern remote rule set: domains that need PROXY from mainland China (auto-maintai
 Raw URL for Egern `rule_set`:
 
 ```
-https://raw.githubusercontent.com/Yxd0530/egern-proxy/refs/heads/main/proxy.list
+https://raw.githubusercontent.com/Yin886/egern-proxy/refs/heads/main/proxy.list
 ```
